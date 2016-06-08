@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:49.606008
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:46
 #+TITLE: 大日經義釋演密鈔
 #+PROPERTY: CBETA_ID X23n0439
 #+PROPERTY: ID KR6j0735
